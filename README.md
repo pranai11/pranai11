@@ -95,8 +95,15 @@ JavaScript   19 mins         ██▓░░░░░░░░░░░░░░
 MySQL        12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
 ```
 
-</div>
+<h2> Top Repositories</h2>
 
+
+<a href="https://github.com/pranai11/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranai11&repo=CRT_PREMIUM_BATCH&theme=buefy" />
+</a>
+<a href="https://github.com/pranai11/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranai11&repo=OIBSIB&theme=buefy" />
+</a>
 
 
 
