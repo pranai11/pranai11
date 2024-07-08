@@ -98,10 +98,10 @@ MySQL        12 mins         █▓░░░░░░░░░░░░░░░
 <h2> Top Repositories</h2>
 
 
-<a href="https://github.com/pranai11/github-readme-stats">
+<a href="https://github.com/pranai11/CRT_PREMIUM_BATCG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranai11&repo=CRT_PREMIUM_BATCH&theme=buefy" />
 </a>
-<a href="https://github.com/pranai11/anuraghazra.github.io">
+<a href="https://github.com/pranai11/OIBSIB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranai11&repo=OIBSIB&theme=buefy" />
 </a>
 
