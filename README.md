@@ -104,6 +104,9 @@ MySQL        12 mins         █▓░░░░░░░░░░░░░░░
 <a href="https://github.com/pranai11/OIBSIB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranai11&repo=OIBSIB&theme=buefy" />
 </a>
+<a href="https://github.com/pranai11/LocalSphere">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranai11&repo=LocalSphere&theme=buefy" />
+</a>
 
 
 
