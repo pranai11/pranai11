@@ -101,8 +101,8 @@ MySQL        12 mins         █▓░░░░░░░░░░░░░░░
 <a href="https://github.com/pranai11/CRT_PREMIUM_BATCH">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranai11&repo=CRT_PREMIUM_BATCH&theme=buefy" />
 </a>
-<a href="https://github.com/pranai11/OIBSIB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranai11&repo=OIBSIB&theme=buefy" />
+<a href="https://github.com/pranai11/Birthdayrem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranai11&repo=Birthdayrem&theme=buefy" />
 </a>
 <a href="https://github.com/pranai11/LocalSphere">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranai11&repo=LocalSphere&theme=buefy" />
