@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate AIML Student and MERN FullStack developer</h3>
 
 🚀 Check out my Portfolio [pranaidoniparthy](https://sites.google.com/view/doniparthypranai) 
-📩 Download My Resume [pranaidoniparthy](https://drive.google.com/file/d/1DAVQHdhOCFGSLwmPXr_RS4oVho6LxdSb/view?usp=sharing)
+📩 Download My Resume [pranaidoniparthy](https://drive.google.com/file/d/1DwARz7_SSTeJzlIN4h1a8wzbItfY2u9R/view?usp=drive_link)
 ###
 <div>
 <h2> What I currently do<br></h2>
